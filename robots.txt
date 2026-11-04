@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-67e8ae874b.tiwodazhe.com/sitemap.xml

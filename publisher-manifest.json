@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "798387ce844e66143794e4a9",
+  "owner": "espdhy",
+  "repo": "page-00e3087e1417f8a133e46be7",
+  "title": "速蛙云(fasterfrog)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "00e3087e1417f8a133e46be7",
+      "a": "速蛙云(fasterfrog)",
+      "b": "",
+      "entity": "速蛙云(fasterfrog)",
+      "brand": "速蛙云(fasterfrog)",
+      "separator": "",
+      "path": "index.html",
+      "hash": "c582171f4317216b47ea4bb71b42aa4cfe2937ace04565f33fd56d6a3a34eac8",
+      "content": {
+        "keyword1": "速蛙云(fasterfrog)",
+        "keyword2": "",
+        "primary_entity": "速蛙云(fasterfrog)",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "速蛙云(fasterfrog)官网页面，提供速蛙云(fasterfrog)机场套餐价格、客户端使用说明与常见问题解答，包含基础版、旗舰版、团队版三档套餐的流量、设备数与功能说明。",
+          "AI_DESCRIPTION": "速蛙云(fasterfrog)官网页面，提供速蛙云(fasterfrog)机场套餐价格、客户端使用说明与常见问题解答，包含基础版、旗舰版、团队版三档套餐的流量、设备数与功能说明。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n:root{--slate:#3a4754;--slate-deep:#2b3540;--slate-light:#5c6b7a;--teal:#1f9e96;--teal-soft:#e3f2f1;--paper:#f7f8f8;--line:#dde2e6;--ink:#232a31}\n*{margin:0;padding:0;box-sizing:border-box}\nhtml{}\nbody{font-family:\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",-apple-system,\"Segoe UI\",sans-serif;background:var(--paper);color:var(--ink);line-height:1.8;font-size:16px}\na{color:var(--teal);text-decoration:none}\na:hover{text-decoration:underline}\n\n/* 顶部细横条导航 */\n.topbar{border-top:3px solid var(--teal);border-bottom:1px solid var(--line);background:#fff;position:sticky;top:0;z-index:10}\n.topbar-inner{max-width:1100px;margin:0 auto;padding:0 24px;display:flex;align-items:center;justify-content:space-between;height:52px}\n.brandmark{font-weight:700;color:var(--slate-deep);letter-spacing:.5px;font-size:15px}\n.brandmark span{color:var(--teal)}\n.topnav{display:flex;gap:28px;font-size:14px}\n.topnav a{color:var(--slate-light)}\n.topnav a:hover{color:var(--teal);text-decoration:none}\n@media(max-width:640px){\n  .topnav{gap:16px;font-size:13px}\n  .topbar-inner{padding:0 16px}\n}\n\n/* Hero：窄栏居左 + 大面积留白 */\n.hero{max-width:1100px;margin:0 auto;padding:96px 24px 88px}\n.hero-narrow{max-width:560px}\n.hero-eyebrow{font-size:13px;letter-spacing:3px;color:var(--teal);text-transform:uppercase;margin-bottom:20px;font-weight:600}\n.hero h1{font-size:clamp(30px,5vw,46px);line-height:1.3;color:var(--slate-deep);font-weight:700;margin-bottom:24px}\n.hero-lede{color:var(--slate-light);font-size:17px;margin-bottom:36px}\n.hero-actions{display:flex;gap:16px;flex-wrap:wrap}\n.btn{display:inline-block;padding:12px 28px;font-size:14px;border:1px solid var(--slate);color:var(--slate-deep);background:transparent;letter-spacing:1px}\n.btn:hover{text-decoration:none;border-color:var(--teal);color:var(--teal)}\n.btn-primary{background:var(--teal);border-color:var(--teal);color:#fff}\n.btn-primary:hover{background:#17847d;color:#fff}\n.hero-note{margin-top:56px;padding-top:24px;border-top:1px solid var(--line);font-size:13px;color:var(--slate-light);max-width:560px}\n\n/* 通用区块 */\nsection{max-width:1100px;margin:0 auto;padding:72px 24px}\n.sec-label{font-size:12px;letter-spacing:3px;color:var(--teal);font-weight:600;margin-bottom:12px;text-transform:uppercase}\nh2{font-size:clamp(22px,3.4vw,30px);color:var(--slate-deep);font-weight:700;margin-bottom:16px;line-height:1.4}\n.sec-intro{color:var(--slate-light);max-width:640px;margin-bottom:48px}\n\n/* 套餐：纵向列表逐行展开 */\n.plan-row{border-top:1px solid var(--line);padding:36px 0;display:grid;grid-template-columns:200px 1fr 220px;gap:32px;align-items:start}\n.plan-row:last-child{border-bottom:1px solid var(--line)}\n.plan-name{font-size:20px;font-weight:700;color:var(--slate-deep)}\n.plan-tag{display:inline-block;margin-top:8px;font-size:12px;color:var(--teal);border:1px solid var(--teal);padding:2px 10px;letter-spacing:1px}\n.plan-features{list-style:none}\n.plan-features li{padding:6px 0;color:var(--slate);font-size:15px;padding-left:20px;position:relative}\n.plan-features li::before{content:\"\";position:absolute;left:0;top:16px;width:8px;height:2px;background:var(--teal)}\n.plan-price{text-align:right}\n.plan-price .num{font-size:26px;font-weight:700;color:var(--slate-deep)}\n.plan-price .per{font-size:13px;color:var(--slate-light)}\n.plan-price .annual{display:block;margin-top:8px;font-size:13px;color:var(--teal)}\n@media(max-width:760px){\n  .plan-row{grid-template-columns:1fr;gap:16px}\n  .plan-price{text-align:left}\n}\n\n/* 使用说明：编号步骤 */\n.steps{counter-reset:step;max-width:720px}\n.step{counter-increment:step;padding:28px 0 28px 72px;border-top:1px solid var(--line);position:relative}\n.step:last-child{border-bottom:1px solid var(--line)}\n.step::before{content:counter(step,decimal-leading-zero);position:absolute;left:0;top:30px;font-size:22px;font-weight:700;color:var(--teal);font-variant-numeric:tabular-nums}\n.step h3{font-size:17px;color:var(--slate-deep);margin-bottom:6px;font-weight:600}\n.step p{color:var(--slate-light);font-size:15px}\n\n/* 客户端区块：无边框，留白分隔 */\n.clients{display:grid;grid-template-columns:repeat(3,1fr);gap:48px}\n.client h3{font-size:17px;color:var(--slate-deep);font-weight:600;padding-bottom:12px;border-bottom:2px solid var(--teal);display:inline-block;margin-bottom:16px}\n.client p{color:var(--slate-light);font-size:15px}\n@media(max-width:760px){.clients{grid-template-columns:1fr;gap:36px}}\n\n/* FAQ：编号列表 */\n.faq-list{counter-reset:faq;max-width:760px}\n.faq-item{counter-increment:faq;border-top:1px solid var(--line);padding:28px 0 28px 72px;position:relative}\n.faq-item:last-child{border-bottom:1px solid var(--line)}\n.faq-item::before{content:\"Q\" counter(faq);position:absolute;left:0;top:30px;font-size:15px;font-weight:700;color:var(--teal);letter-spacing:1px}\n.faq-item h3{font-size:16px;color:var(--slate-deep);font-weight:600;margin-bottom:8px}\n.faq-item p{color:var(--slate-light);font-size:15px}\n@media(max-width:640px){\n  .step,.faq-item{padding-left:56px}\n}\n\n/* 页脚 */\nfooter{border-top:1px solid var(--line);background:#fff}\n.footer-inner{max-width:1100px;margin:0 auto;padding:40px 24px;display:flex;justify-content:space-between;flex-wrap:wrap;gap:16px;font-size:13px;color:var(--slate-light)}\n</style><nav class=\"topbar\">\n  <div class=\"topbar-inner\">\n    <div class=\"brandmark\">速蛙云 <span>fasterfrog</span></div>\n    <div class=\"topnav\">\n      <a href=\"#plans\">套餐</a>\n      <a href=\"#guide\">使用说明</a>\n      <a href=\"#clients\">客户端</a>\n      <a href=\"#faq\">常见问题</a>\n    </div>\n  </div>\n</nav>\n\n<main>\n\n<header class=\"hero\">\n  <div class=\"hero-narrow\">\n    <p class=\"hero-eyebrow\">Fasterfrog Network Service</p>\n    <h1>速蛙云(fasterfrog)：一份清晰可读的网络加速服务说明</h1>\n    <p class=\"hero-lede\">本页以说明书的方式，完整列出速蛙云(fasterfrog)机场的套餐规格、价格、客户端配置步骤与常见问题。所有信息按条目陈列，便于逐项核对，不作夸张承诺。</p>\n    <div class=\"hero-actions\">\n      <a class=\"btn btn-primary\" href=\"#plans\">查看套餐规格</a>\n      <a class=\"btn\" href=\"#guide\">阅读使用说明</a>\n    </div>\n  </div>\n  <p class=\"hero-note\">说明：本页面为速蛙云(fasterfrog)相关信息整理页，套餐价格与权益以页面所列为准；未列明的参数不作推测性描述。</p>\n</header>\n\n<section id=\"plans\">\n  <p class=\"sec-label\">Plans</p>\n  <h2>套餐规格与价格</h2>\n  <p class=\"sec-intro\">速蛙云(fasterfrog)机场套餐分为三档，按流量额度、同时在线设备数与节点类型区分。按年付费可享折合优惠，逐行展开如下。</p>\n\n  <div class=\"plan-row\">\n    <div>\n      <div class=\"plan-name\">基础版</div>\n    </div>\n    <ul class=\"plan-features\">\n      <li>每月 100GB 极速流量</li>\n      <li>支持 3 台设备同时在线</li>\n      <li>解锁基础流媒体</li>\n      <li>普通线路节点池</li>\n    </ul>\n    <div class=\"plan-price\">\n      <span class=\"num\">¥15</span><span class=\"per\"> / 月</span>\n      <span class=\"annual\">按年付仅需 ¥150/年</span>\n    </div>\n  </div>\n\n  <div class=\"plan-row\">\n    <div>\n      <div class=\"plan-name\">旗舰版</div>\n      <span class=\"plan-tag\">推荐</span>\n    </div>\n    <ul class=\"plan-features\">\n      <li>每月 300GB 极速流量</li>\n      <li>支持 5 台设备同时在线</li>\n      <li>全节点原生流媒体解锁</li>\n      <li>IPLC 专线游戏加速优化</li>\n      <li>7x24 优先工单支持</li>\n    </ul>\n    <div class=\"plan-price\">\n      <span class=\"num\">¥35</span><span class=\"per\"> / 月</span>\n      <span class=\"annual\">按年付仅需 ¥350/年</span>\n    </div>\n  </div>\n\n  <div class=\"plan-row\">\n    <div>\n      <div class=\"plan-name\">团队版</div>\n    </div>\n    <ul class=\"plan-features\">\n      <li>每月 1000GB 极速流量</li>\n      <li>支持 20 台设备同时在线</li>\n      <li>VIP 专属高带宽节点</li>\n      <li>支持企业定制路由</li>\n      <li>专属客户经理服务</li>\n    </ul>\n    <div class=\"plan-price\">\n      <span class=\"num\">¥85</span><span class=\"per\"> / 月</span>\n      <span class=\"annual\">按年付仅需 ¥850/年</span>\n    </div>\n  </div>\n</section>\n\n<section id=\"guide\">\n  <p class=\"sec-label\">Guide</p>\n  <h2>使用说明</h2>\n  <p class=\"sec-intro\">从注册到连接的完整流程，按以下四个步骤依次操作即可。每一步只包含必要动作，无需额外配置。</p>\n\n  <div class=\"steps\">\n    <div class=\"step\">\n      <h3>注册账户并选择套餐</h3>\n      <p>访问速蛙云(fasterfrog)官网注册账户，根据每月流量需求与同时在线设备数量，在基础版、旗舰版、团队版中选择一档完成订阅。按年付费可享折合优惠。</p>\n    </div>\n    <div class=\"step\">\n      <h3>获取订阅链接</h3>\n      <p>登录用户中心，在订阅管理页面复制专属订阅链接。该链接包含全部节点信息，请妥善保管，不要分享给账户授权范围之外的人员。</p>\n    </div>\n    <div class=\"step\">\n      <h3>导入客户端</h3>\n      <p>在所用设备上安装对应的机场客户端，选择\"从订阅链接导入\"，粘贴上一步复制的链接，客户端将自动拉取节点列表。具体操作见下方客户端说明。</p>\n    </div>\n    <div class=\"step\">\n      <h3>选择节点并连接</h3>\n      <p>在节点列表中选择一个节点，开启系统代理或全局连接。流媒体观看建议选择标注解锁的节点；游戏场景下旗舰版用户可优先选择 IPLC 专线节点。</p>\n    </div>\n  </div>\n</section>\n\n<section id=\"clients\">\n  <p class=\"sec-label\">Clients</p>\n  <h2>客户端说明</h2>\n  <p class=\"sec-intro\">速蛙云(fasterfrog)通过标准订阅链接适配各平台主流客户端。以下按设备类型说明配置方式，具体客户端版本请从各应用官方渠道获取。</p>\n\n  <div class=\"clients\">\n    <div class=\"client\">\n      <h3>桌面端</h3>\n      <p>Windows 与 macOS 设备可使用支持订阅导入的主流代理客户端。安装后在订阅管理中添加订阅链接，更新订阅即可同步节点列表，随后选择节点并启用系统代理。</p>\n    </div>\n    <div class=\"client\">\n      <h3>移动端</h3>\n      <p>iOS 与 Android 设备可使用各自平台上支持订阅功能的客户端。通过剪贴板导入订阅链接，客户端会自动解析节点。移动端建议开启按需连接，以节省流量与电量。</p>\n    </div>\n    <div class=\"client\">\n      <h3>多设备管理</h3>\n      <p>同一账户下的设备共享套餐流量，同时在线数量受套餐限制：基础版 3 台、旗舰版 5 台、团队版 20 台。超出限制的设备将被排队或断开，可在用户中心管理已登录设备。</p>\n    </div>\n  </div>\n</section>\n\n<section id=\"faq\">\n  <p class=\"sec-label\">FAQ</p>\n  <h2>常见问题</h2>\n  <p class=\"sec-intro\">以下问题按出现频率整理，涵盖套餐选择、流量计算、设备限制与订阅安全。如未覆盖你的问题，可通过工单渠道咨询。</p>\n\n  <div class=\"faq-list\">\n    <div class=\"faq-item\">\n      <h3>三档套餐应该如何选择？</h3>\n      <p>以个人使用强度为判断标准：每月流量需求在 100GB 以内、设备不超过 3 台，选择基础版即可；需要流媒体全节点解锁或游戏专线加速，选择旗舰版；多人共享或企业场景，选择团队版。</p>\n    </div>\n    <div class=\"faq-item\">\n      <h3>流量是如何计算和重置的？</h3>\n      <p>套餐流量按自然月计算，每月固定额度：基础版 100GB、旗舰版 300GB、团队版 1000GB。流量在结算周期开始时重置，当月未用完的流量不结转至次月。</p>\n    </div>\n    <div class=\"faq-item\">\n      <h3>同时在线设备数超限会怎样？</h3>\n      <p>当同时在线设备数达到套餐上限时，新接入的设备将无法建立连接，或按规则断开最早接入的会话。可在用户中心查看并移除不再使用的设备。</p>\n    </div>\n    <div class=\"faq-item\">\n      <h3>旗舰版的 IPLC 专线适合什么场景？</h3>\n      <p>IPLC 专线节点针对游戏加速做了优化，适合对延迟和稳定性要求较高的在线游戏场景。日常网页浏览和普通视频观看使用常规节点即可，不必占用专线资源。</p>\n    </div>\n    <div class=\"faq-item\">\n      <h3>订阅链接泄露了怎么办？</h3>\n      <p>订阅链接等同于账户凭证。如怀疑泄露，请立即在用户中心重置订阅链接，旧链接随即失效，然后在各设备客户端中更新为新链接。</p>\n    </div>\n    <div class=\"faq-item\">\n      <h3>按月付和按年付有什么区别？</h3>\n      <p>套餐权益完全相同，区别仅在计费方式。按年付折合为：基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，相比按月付各节省约两个月费用。</p>\n    </div>\n  </div>\n</section>\n\n</main>\n\n<footer>\n  <div class=\"footer-inner\">\n    <span>速蛙云(fasterfrog) — 套餐 · 客户端 · 使用说明</span>\n    <span>本页信息以页面所列为准，未列明事项不作推测。</span>\n  </div>\n</footer>",
+          "hash": "c160b4f7ae16fe7b133f2bd96654a7c4701f30825ad9973bf954cdeb44bb410a",
+          "seo": {
+            "title": "速蛙云(fasterfrog)官网｜速蛙云(fasterfrog)机场套餐、客户端与使用说明",
+            "keywords": "速蛙云(fasterfrog),速蛙云(fasterfrog)官网,速蛙云(fasterfrog)机场,速蛙云(fasterfrog)机场官网,机场套餐,机场客户端,机场使用说明,云服务",
+            "description": "速蛙云(fasterfrog)官网页面，提供速蛙云(fasterfrog)机场套餐价格、客户端使用说明与常见问题解答，包含基础版、旗舰版、团队版三档套餐的流量、设备数与功能说明。"
+          },
+          "provider": "deepseek",
+          "model": "gemini-3.7-flash-high",
+          "design": {
+            "no": "4926",
+            "hero": "7 窄栏居左配大面积留白",
+            "palette": "7 石板灰配青色",
+            "nav": "1 顶部细横条",
+            "card": "1 无边框仅靠留白分隔",
+            "plans_view": "2 纵向列表逐行展开",
+            "faq_view": "2 编号列表",
+            "tone": "1 冷静克制的说明书口吻",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "tiwodazhe.com",
+    "host": "p-67e8ae874b.tiwodazhe.com",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "a0fd5457eb2d4fad954fb59a810cd07ecc9a78edba07627c36e1b467511914b8",
+    "sitemap.xml": "e799d67c94c2a0ceb9ce107f77a615a6a99dd7d3474b39137eee94a9ec5597d3",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "356fdcff78e0b428d458254769b8944bd50edce0d345449b37815ad14630a05b",
+    "robots.txt": "561cde602417793d639a93505a707edd03cf9de5256bdadd97e4289302c8baaa",
+    "727d11a3ec6e473c33dfbc26a3ffd2f3.txt": "3f75986d503b9c89851907be82c62b4d0fb8f1d984eae6c3a99aa2d147bfd06d"
+  },
+  "revision": "b8f9eaebcea9c92ba72c4ca5cbcfbd8d27ea82a305944f3895f30ef705c5758a"
+}
